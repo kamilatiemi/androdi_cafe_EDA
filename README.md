@@ -31,12 +31,7 @@ The analysis is based on open-source data regarding restaurants in Los Angeles.
 3.  What is the average seating capacity for cafes compared to full-scale restaurants?
 4.  Which street locations have the highest concentration of food establishments?
 
-## 🚀 Key Insights (Preview)
-*(Dica: Após terminar sua análise, adicione aqui 2 ou 3 pontos principais encontrados e, se possível, uma imagem de um gráfico gerado pelo Seaborn)*
-*   Example: "Cafes in LA tend to have a significantly lower seating capacity (avg. 25) compared to restaurant chains."
-*   Example: "The 'Chain' model is predominant in fast-food sectors, while independent shops hold a 60% market share in the specialty coffee niche."
-
 ## 📂 How to Run This Project
-1. Clone the repository: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+1. Clone the repository
 2. Install dependencies: `pip install pandas seaborn matplotlib`
 3. Open the `main.ipynb` notebook.
